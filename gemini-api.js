@@ -1,4 +1,4 @@
-<script>
+
     const chatbox = document.getElementById('chatbox');
     const chatBtn = document.getElementById('chat-btn');
     const closeChat = document.getElementById('close-chat');
@@ -88,4 +88,3 @@
                 });
         }
     }
-</script>
